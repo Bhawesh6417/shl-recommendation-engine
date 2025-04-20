@@ -1,0 +1,31 @@
+CandidateID,Education,ExperienceYears,Skills,Industry,Recommended_Assessment
+1,MBA,5,Leadership;Communication;Excel,Finance,Leadership Assessment
+2,BTech,2,Python;SQL;Data Analysis,Technology,Cognitive Ability Test
+3,BA,3,Communication;Customer Service;CRM,Sales,Personality Test
+4,MTech,7,AI;Machine Learning;Python,Technology,Technical Assessment
+5,MA,6,Presentation;Teamwork;English,Education,Personality Test
+6,BSc,1,Excel;Data Entry;Accuracy,Operations,Cognitive Ability Test
+7,PhD,10,Research;Statistics;Python,Academia,Research Aptitude Test
+8,MBA,8,Management;Strategic Thinking;Leadership,Finance,Leadership Assessment
+9,BCom,4,Accounting;Excel;Financial Analysis,Finance,Cognitive Ability Test
+10,BTech,3,Python;Django;REST API,Technology,Technical Assessment
+11,MBA,6,Project Management;Leadership;Agile,Consulting,Leadership Assessment
+12,BA,2,Social Media;Creativity;Design,Marketing,Personality Test
+13,BSc,5,Data Analysis;R;Python,Healthcare,Cognitive Ability Test
+14,MTech,9,Cloud Computing;AWS;DevOps,Technology,Technical Assessment
+15,MBA,7,Negotiation;CRM;Sales Strategy,Sales,Personality Test
+16,MA,4,Public Speaking;English;Writing,Education,Personality Test
+17,BTech,1,Python;Data Structures;C++,Technology,Cognitive Ability Test
+18,MSc,6,Biology;Lab Work;Research,Healthcare,Research Aptitude Test
+19,MBA,5,Finance;Risk Analysis;Excel,Banking,Cognitive Ability Test
+20,BSc,3,Statistics;R;Visualization,Data Science,Technical Assessment
+21,BA,2,Customer Support;Empathy;English,Support,Personality Test
+22,MTech,8,ML;Deep Learning;TensorFlow,Technology,Technical Assessment
+23,MBA,6,Team Leadership;Operations;Planning,Operations,Leadership Assessment
+24,BCom,4,Taxation;Accounting;Excel,Finance,Cognitive Ability Test
+25,BTech,3,Java;Spring;Microservices,Technology,Technical Assessment
+26,MA,5,Linguistics;English;Teaching,Education,Personality Test
+27,MBA,7,Business Analysis;Strategy;Finance,Consulting,Leadership Assessment
+28,MSc,6,Chemistry;Lab Safety;Analysis,Healthcare,Research Aptitude Test
+29,BSc,2,Excel;Reporting;Accuracy,Analytics,Cognitive Ability Test
+30,BTech,4,React;JavaScript;HTML,Technology,Technical Assessment
